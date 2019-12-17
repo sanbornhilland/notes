@@ -5,6 +5,7 @@ By: Steve Krug
 
 1. [Chapter 1. "Don't make me think"](#dont-make-me-think)
 1. [Chapter 2. "How we really use the web"](#how-we-really-use-the-web)
+1. [Chapter 3. "Billboard design 101"](#billboard-design-101)
 
 ## Don't make me think
 
@@ -48,5 +49,28 @@ By: Steve Krug
     - There's a better chance they'll be successful
     - You can steer them better
     - They'll feel better about themselves
+
+**[Back to top](#table-of-contents)**
+
+## Billboard design 101
+
+### 5 things to do to commmunicate effectively with users that are skimming.
+1. **Create a clear visual hierarchy on each page**
+    - Clearly portrary the relationships between things on the page
+    - Prominance is proportional to importance. Use size, color, white-space etc. to make more important things more prominent
+    - Visual relation indicates logical relations. Group related items together.
+    - Things are nested visually to show what is part of what. 
+1. **Conventions are your friend.**
+    - Don't re-invent the wheel
+    - Conventions are useful. Users already understand them and it produces a sense of familiarity in users. 
+    - Designers are often reluctant to use conventions. For the most part, resist the urge to innovate. Use conventions. 
+        - If you are going to innovate make sure that the innovation is (1) completely clear and (2) adds so much value that the learning curve is justified. 
+1. **Break up pages into clearly defined areas**
+    - This allows users to quickly scan the page to decide what section to focus on
+1. **Make it obvious what's clickable**
+1. **Keep the noise down to a dull roar**
+    - Noise makes a page hard grasp
+    - Busy pages are distracting. When everything on the page is aiming for you attention it's hard to focus
+    - Background noise is unhelpful. Assume everything is visual noise until proven otherwise.
 
 **[Back to top](#table-of-contents)**
